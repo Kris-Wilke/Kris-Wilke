@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kris-Wilke // Kris Wilke | She/Her
+- 👋 Hi, I’m @Kris-Wilke // Kris Wilke
 - 👀 I’m interested in Big data, Data science, spreadsheets, really any kind of data!
 - 🌱 I’m currently learning Python & SQL.
 - 💞️ I’m looking to collaborate on ... (I don't know at the moment, still learning!)
