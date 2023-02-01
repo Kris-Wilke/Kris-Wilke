@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kris-Wilke // Kris Wilke | Currently studying Computer Science & Data Science at University of Copenhagen
 - 👀 I’m interested in Big data, Data science, spreadsheets, really any kind of data!
-- 🌱 I’m currently learning Python & SQL.
+- 🌱 I’m currently learning advanced Python & SQL.
 - 📫 How to reach me https://www.linkedin.com/in/kristina-wilke/
 
 <!---
